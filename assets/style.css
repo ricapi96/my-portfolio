@@ -6,6 +6,7 @@ body {
     border: 3px solid darkgreen;
     height: 100vh;
     background-image: url("https://images.pexels.com/photos/952670/pexels-photo-952670.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-position: center;
 }
 
 header {
@@ -14,8 +15,20 @@ header {
     margin: 20px;
 }
 
+.navbar-brand {
+    font-size: 30px;
+    
+}
+
 .navbar {
-    background: peachpuff !important;
+    background: rgb(79, 156, 219) !important;
+    font-size: 30px;
+}
+
+.dropdown-menu {
+    background-color: rgb(79, 206, 163);
+    font-size: 28px;
+    text-align: center;
 }
 
 p {
