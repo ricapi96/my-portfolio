@@ -5,7 +5,7 @@
 body {
     border: 3px solid darkgreen;
     height: 100vh;
-    background-image: url("https://images.pexels.com/photos/952670/pexels-photo-952670.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-image: url("https://images.pexels.com/photos/2362226/pexels-photo-2362226.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
     background-position: center;
 }
 
@@ -16,13 +16,15 @@ header {
 }
 
 .navbar-brand {
-    font-size: 30px;
-    
+    font-size: 50px;
+    text-decoration: underline;
 }
 
 .navbar {
-    background: rgb(79, 156, 219) !important;
-    font-size: 30px;
+    background: rgb(50, 156, 163) !important;
+    font-size: 35px;
+    text-decoration: underline;
+    
 }
 
 .dropdown-menu {
@@ -32,6 +34,7 @@ header {
 }
 
 p {
-    color: green;
-    font-size: 55px;
+    color: rgb(188, 199, 167);
+    font-size: 35px;
+    
 }
