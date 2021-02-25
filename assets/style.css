@@ -3,9 +3,9 @@
 }
 
 body {
-    border: 3px solid darkgreen;
+    border: 3px solid rgb(49, 20, 102);
     height: 100vh;
-    background-image: url("https://images.pexels.com/photos/1169754/pexels-photo-1169754.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzLfHCdY3oTYmk7pKudcw-ZjwvIhTbgymH7Q&usqp=CAU");
     background-position: center;
 }
 
@@ -34,8 +34,16 @@ header {
 }
 
 p {
-    color: rgb(188, 199, 167);
+    color: rgb(236, 246, 247);
     font-size: 25px;
     text-align: end;
     
+}
+
+nav {
+    color: darkgreen;
+}
+
+h2 {
+    color: darkgrey;
 }
