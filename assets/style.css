@@ -18,6 +18,11 @@ body {
     font-size: 40px;
 }
 
+.card-img-overlay {
+    position: absolute;
+    max-width: 200px;
+}
+
 p {
     color: rgb(44, 114, 121);
     font-size: 25px;
