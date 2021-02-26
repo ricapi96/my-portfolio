@@ -4,10 +4,21 @@
 
 body {
     /* border: 3px solid rgb(49, 20, 102);
-    height: 100vh; */
+    height: 100vh; */ 
     background-image: url("https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80");
     background-position: center;
+    /* @media screen and (max-width: 600px) {
+        div.example {
+          display: none;
+        } */
 }
+
+footer {
+    float: right;
+    
+}
+
+
 
 .navbar {
     background: rgb(50, 156, 163) !important;
@@ -18,9 +29,14 @@ body {
     font-size: 40px;
 }
 
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+
 .card-img-overlay {
     position: absolute;
-    max-width: 200px;
+    max-width: 100px;
 }
 
 p {
@@ -37,3 +53,4 @@ h2 {
     color: rgb(37, 22, 104);
     text-decoration: underline;
 }
+
