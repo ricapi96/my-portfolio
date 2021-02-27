@@ -13,7 +13,7 @@ When my portfolio is loaded, presented is my name, a recent photo, and links to 
 -Jonathan Rein (cohort)
 
 # Screenshot
-![Portfolio](./"images\portfolio-screenshot.png")
+![Portfolio](./images/portfolio-screenshot.png)
 
 # Deployed Application Link
 
