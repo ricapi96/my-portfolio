@@ -8,4 +8,11 @@ When my portfolio is loaded, presented is my name, a recent photo, and links to 
 
 
 # Resources and contributers
--<span>Photo by <a href="https://unsplash.com/@nordwood?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">NordWood Themes</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+-w3schools tuturials
+-Behnoosh (cohort)
+-Jonathan R. (cohort)
+
+# Screenshot
+![portfolio](./images\portfolio-screenshot.png)
+
+# Deployed Application Link
