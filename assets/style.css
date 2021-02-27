@@ -54,7 +54,7 @@ p {
     font-size: 17px;
   }
   
-  /* Change the color of links on hover */
+  /* Changes the color of links on hover */
   .footer a:hover {
     background-color: rgb(131, 43, 126);
     color: black;

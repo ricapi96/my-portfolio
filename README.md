@@ -10,7 +10,7 @@ When my portfolio is loaded, presented is my name, a recent photo, and links to 
 # Resources and contributers
 -w3schools tutorials
 -Behnoosh (cohort)
--Jonathan R. (cohort)
+-Jonathan Rein (cohort)
 
 # Screenshot
 ![Portfolio](./images\portfolio-screenshot.png)
