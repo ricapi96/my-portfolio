@@ -28,13 +28,13 @@ h2 {
     text-decoration: underline;
 
 }
-
+/* Cool Subtitle */
 p {
     font-style: italic;
     font-size: 20px;
 }
 
-/* Place the navbar at the bottom of the page, and make it stick */
+/* Places the navbar at the bottom of the page, and makes it stick */
 .footer {
     background-color:rgb(50, 156, 163);
     overflow: hidden;
@@ -43,7 +43,7 @@ p {
     width: 100%;
   }
   
-  /* Style the links inside the navigation bar */
+  /* Styles the links inside the navigation bar */
   .footer a {
     float: left;
     display: block;
@@ -56,14 +56,14 @@ p {
   
   /* Change the color of links on hover */
   .footer a:hover {
-    background-color: #ddd;
+    background-color: rgb(131, 43, 126);
     color: black;
     
   }
   
-  /* Add a color to the active/current link */
+  /* Adds a color to the active link */
   .footer a.active {
-    background-color: #4CAF50;
+    background-color: #323c9e;
     color: white;
   }
 

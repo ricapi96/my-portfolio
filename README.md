@@ -8,11 +8,11 @@ When my portfolio is loaded, presented is my name, a recent photo, and links to 
 
 
 # Resources and contributers
--w3schools tuturials
+-w3schools tutorials
 -Behnoosh (cohort)
 -Jonathan R. (cohort)
 
 # Screenshot
-![Alt text](/images\portfolio-screenshot.png?raw=true "Erica's Portfolio")
+![Portfolio](./images\portfolio-screenshot.png)
 
 # Deployed Application Link
