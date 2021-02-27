@@ -22,6 +22,7 @@ body {
     font-size: 35px;
     color: aqua;
     float: right;
+    
 }
 /* About Me Section */
 h2 {
@@ -32,6 +33,7 @@ h2 {
 p {
     font-style: italic;
     font-size: 20px;
+    color:aqua
 }
 
 /* Places the navbar at the bottom of the page, and makes it stick */
