@@ -16,4 +16,5 @@ When my portfolio is loaded, presented is my name, a recent photo, and links to 
 ![Portfolio](./images/portfolio-screenshot.png)
 
 # Deployed Application Link
+https://ericaroq.github.io/my-portfolio/
 
